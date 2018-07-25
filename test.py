@@ -10,3 +10,4 @@ with open("D:\python\settings.yaml", 'r') as stream:
         print(yaml.load(stream))
     except yaml.YAMLError as exc:
         print(exc)
+#comment
